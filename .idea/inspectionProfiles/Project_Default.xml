@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="api_test.test19_unittest_test_suite.test19_unittest" />
+          <option value="test19_unittest" />
+          <option value="demo" />
+          <option value="modules_01" />
+          <option value="thread_01" />
+          <option value="test.pdm_test.pdm_index" />
+          <option value="es.test.test" />
+          <option value="es.test.self" />
+          <option value="getpathInfo" />
+          <option value="common.instance.isInstance" />
+          <option value="common.instance.get_type" />
+          <option value="common.instance.instance" />
+          <option value="common.logger.LOG_ROOT" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
